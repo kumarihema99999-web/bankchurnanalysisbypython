@@ -1,12 +1,7 @@
- bankchurnanalysisbypython
- Perfect — let’s refine your **README description** to explicitly include the libraries you used. This way, recruiters and reviewers see both your technical stack and your analytical approach:
-
----
-
-# Bank Customer Churn Analysis
+Bank Customer Churn Analysis
 
  📊 Project Overview
-This project analyzes a dataset of **500 bank customers** to uncover factors contributing to customer churn. The goal is to identify patterns in customer behavior and provide actionable insights that can help banks improve retention strategies.
+This project analyzes a dataset of 500 bank customers to uncover factors contributing to customer churn. The goal is to identify patterns in customer behavior and provide actionable insights that can help banks improve retention strategies.
 
  🗂 Dataset Description
 The dataset includes the following variables:
